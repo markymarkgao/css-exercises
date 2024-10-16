@@ -1,0 +1,24 @@
+/* style.css */
+
+.All-odd-numbered-elements {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#The-second-element {
+
+    color: blue;
+    font-size: 36px;
+
+}
+
+.Cooler {
+    font-size: 24px;
+}
+
+#The-fourth-element {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

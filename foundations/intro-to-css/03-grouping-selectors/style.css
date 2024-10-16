@@ -1,0 +1,17 @@
+/* style.css */
+
+.The-first {
+    background-color: black;
+    color: white;
+}
+
+.The-second {
+    background-color: yellow;
+}
+
+.The-first,
+.The-second {
+
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
